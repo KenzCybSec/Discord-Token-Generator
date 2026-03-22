@@ -60,7 +60,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-##⚙️ CUSTOMIZATION
+## ⚙️ CUSTOMIZATION
 
 Create these files in io/input/profiles/:
 
@@ -76,7 +76,7 @@ avatars/	Profile pictures (.png/.jpg)
 
 
 
-##📁 FILE STRUCTURE
+## 📁 FILE STRUCTURE
 ```bash
 
 Discord-Token-Generator/
@@ -104,7 +104,7 @@ Discord-Token-Generator/
 
 
 
-##📞 SUPPORT
+## 📞 SUPPORT
 Discord Server: https://discord.gg/6ZseZcYS
 
 Discord Server: https://discord.gg/aliucord
@@ -115,7 +115,7 @@ Join for: Free Support • Updates • Help • Feature Requests
 
 
 
-##💰 Support
+## 💰 Support
 
 ltc:ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
 
@@ -174,7 +174,7 @@ By downloading, cloning, or using this tool, you confirm that you have read, und
 ```
 ---
 
-##👥 CREDITS
+## 👥 CREDITS
 Made by	KenzShop x Aliucord
 Contributors	yeonsieunx
 
