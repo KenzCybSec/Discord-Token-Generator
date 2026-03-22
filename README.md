@@ -77,7 +77,8 @@ avatars/	Profile pictures (.png/.jpg)
 
 
 ##📁 FILE STRUCTURE
-text
+```bash
+
 Discord-Token-Generator/
 ├── main.py
 ├── requirements.txt
@@ -86,6 +87,7 @@ Discord-Token-Generator/
 ├── images/                 # tokengen.png, humanizer.png
 ├── videos/                 # KenzxAliucord.gif
 └── README.md
+```
 
 
 
@@ -94,10 +96,14 @@ Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
 
 
 
+
+
 ##📞 SUPPORT
 Discord Server: https://discord.gg/6ZseZcYS
 Discord Server: https://discord.gg/aliucord
 Join for: Free Support • Updates • Help • Feature Requests
+
+
 
 
 
