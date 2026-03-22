@@ -48,7 +48,6 @@
 
 ## 📦 INSTALLATION
 
-```bash
 # Clone the repository
 git clone https://github.com/KenzCybSec/Discord-Token-Generator
 cd Discord-Token-Generator
