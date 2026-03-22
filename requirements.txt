@@ -1,0 +1,14 @@
+httpx
+requests
+zendriver
+pyautogui
+pyperclip
+colorama
+pystyle
+Pillow
+tls-client
+websocket-client
+cryptography
+lxml
+beautifulsoup4
+fake-useragent
