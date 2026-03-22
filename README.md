@@ -47,6 +47,7 @@
 
 
 ## 📦 INSTALLATION
+```bash
 
 # Clone the repository
 git clone https://github.com/KenzCybSec/Discord-Token-Generator
@@ -57,6 +58,7 @@ pip install -r requirements.txt
 
 # Run the tool
 python main.py
+```
 
 ##⚙️ CUSTOMIZATION
 Create these files in io/input/profiles/:
@@ -66,6 +68,8 @@ bio.txt	Bios (one per line)
 names.txt	Display names (one per line)
 pronouns.txt	Pronouns (one per line)
 avatars/	Profile pictures (.png/.jpg)
+
+
 
 ##📁 FILE STRUCTURE
 text
@@ -78,20 +82,28 @@ Discord-Token-Generator/
 ├── videos/                 # KenzxAliucord.gif
 └── README.md
 
+
+
 ##💻 TESTED ON
 Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
+
+
 
 ##📞 SUPPORT
 Discord Server: https://discord.gg/6ZseZcYS
 Discord Server: https://discord.gg/aliucord
 Join for: Free Support • Updates • Help • Feature Requests
 
+
+
 ##💰 Support
 ltc:ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
 ltc:LW3CJpiwF1y2y2SrSBvNF5PezpiGf4PWgw
 
-## ⚠️ DISCLAIMER
 
+
+## ⚠️ DISCLAIMER
+```bash
 **📚 EDUCATIONAL PURPOSES ONLY**
 
 This tool (Discord Token Generator) is developed and distributed SOLELY for educational and research purposes. It is designed to help users understand:
@@ -138,7 +150,7 @@ By using this tool, you acknowledge and agree that:
 **THE DEVELOPERS ARE NOT RESPONSIBLE FOR ANY DAMAGES, LOSSES, OR LEGAL ISSUES ARISING FROM THE USE OF THIS TOOL. USE AT YOUR OWN RISK.**
 
 By downloading, cloning, or using this tool, you confirm that you have read, understood, and agree to all terms stated above. If you do not agree, do not use this tool.
-
+```
 ---
 
 ##👥 CREDITS
