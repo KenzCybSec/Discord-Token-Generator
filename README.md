@@ -117,9 +117,9 @@ Join for: Free Support • Updates • Help • Feature Requests
 
 ## 💰 Support
 
-ltc:ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
+ltc : ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
 
-ltc:LW3CJpiwF1y2y2SrSBvNF5PezpiGf4PWgw
+ltc : LW3CJpiwF1y2y2SrSBvNF5PezpiGf4PWgw
 
 
 
@@ -176,6 +176,7 @@ By downloading, cloning, or using this tool, you confirm that you have read, und
 
 ## 👥 CREDITS
 Made by	KenzShop x Aliucord
+
 Contributors	yeonsieunx
 
 # 📜 LICENSE
