@@ -91,8 +91,14 @@ Discord-Token-Generator/
 
 
 
-##💻 TESTED ON
-Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
+## 💻 TESTED ON
+
+| OS | Status |
+|---|---|
+| Windows 10/11 | ✅ |
+| Kali Linux | ✅ |
+| Ubuntu | ✅ |
+| macOS | ✅ |
 
 
 
@@ -100,7 +106,9 @@ Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
 
 ##📞 SUPPORT
 Discord Server: https://discord.gg/6ZseZcYS
+
 Discord Server: https://discord.gg/aliucord
+
 Join for: Free Support • Updates • Help • Feature Requests
 
 
@@ -108,7 +116,9 @@ Join for: Free Support • Updates • Help • Feature Requests
 
 
 ##💰 Support
+
 ltc:ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
+
 ltc:LW3CJpiwF1y2y2SrSBvNF5PezpiGf4PWgw
 
 
