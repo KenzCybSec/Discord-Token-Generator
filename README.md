@@ -9,7 +9,7 @@
 
 **Advanced Discord Account Generator & Humanizer Tool**
 
-![Demo](videos/KenzxAliucord.gif)
+![Demo](videos/KenZxAliucord.gif)
 
 </div>
 
