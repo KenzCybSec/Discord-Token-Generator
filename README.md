@@ -27,7 +27,7 @@
 
 | Category | Features |
 |----------|----------|
-| **Token Generator** | • Auto Account Creation<br>• Instant Email Verification (mail.tm API)<br>• No API Key Required<br>• Random User Agents<br>• Unique Passwords<br>• Y2K Style Usernames<br>• Multi-Account Support<br>• Automatic Saving |
+| **Token Generator** | • Auto Account Creation<br>• Instant Email Verification <br>• No API Key Required<br>• Random User Agents<br>• Unique Passwords<br>• Y2K Style Usernames<br>• Multi-Account Support<br>• Automatic Saving |
 | **Token Humanizer** | • Random Bios<br>• Display Names<br>• Pronouns<br>• Profile Pictures<br>• Hypesquad Selection<br>• Multi-Thread Support (1-50 threads) |
 | **UI & Experience** | • Neon Purple/Magenta Theme<br>• Pulsing ASCII Art<br>• Colored Console Output<br>• Progress Tracking |
 | **Output Management** | • Token Only Export (tokens.txt)<br>• Full Credentials (token.txt)<br>• Organized kenzshop/ folder |
