@@ -61,12 +61,17 @@ python main.py
 ```
 
 ##⚙️ CUSTOMIZATION
+
 Create these files in io/input/profiles/:
 
 File	Purpose
+
 bio.txt	Bios (one per line)
+
 names.txt	Display names (one per line)
+
 pronouns.txt	Pronouns (one per line)
+
 avatars/	Profile pictures (.png/.jpg)
 
 
