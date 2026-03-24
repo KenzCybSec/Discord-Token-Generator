@@ -35,7 +35,7 @@
 ---
 
 
-# 50 STAR FOR V2📌
+# ⭐️50 STAR FOR V2📌
 # 🚀 V2 FEATURES
 - ✅ everything auto
 - ✅ Premium mail services
