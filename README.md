@@ -35,8 +35,8 @@
 ---
 
 
-# ⭐️50 STAR FOR V2📌
-# 🚀 V2 FEATURES
+# ⭐️100 STAR FOR Premium📌
+# 🚀 Premium FEATURES
 - ✅ everything auto
 - ✅ Premium mail services
 - ✅ phone verifier
